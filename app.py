@@ -177,9 +177,7 @@ def slot(req,intent_name,pc1):
             li2.append(result1["sessions"][i]["slots"])
 
 
-######print(*li1,sep="\n")
-##st=str(li2[0]).strip('[]')
-##st1=st.strip("'")
+
     st3="09:00AM-10:00AM"+"\n"+"10:00AM-11:00AM"+"\n"+"11:00AM-12:00PM"+"\n"+"12:00PM-02:00PM"
     print(st1,st4,st2)
     print(st3)
@@ -191,10 +189,7 @@ def slot(req,intent_name,pc1):
     
 
 
-    ######print(*li1,sep="\n")
-    ##st=str(li2[0]).strip('[]')
-    ##st1=st.strip("'")
-    
+
     
 
 
