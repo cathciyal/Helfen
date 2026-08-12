@@ -1,4 +1,4 @@
-**🩺 Helfen - Conversational AI**
+**Helfen - Conversational AI**
 
 
 
